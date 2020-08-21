@@ -2,12 +2,12 @@
     width: 150px;
     height: 350px;
     margin: 0 auto;
-    background: url(/home/payal/punchingBagGame/bagImages/bag.png) center no-repeat;
+    background: url(/home/payal/punchingBagGame/bag.png) center no-repeat;
     background-size: 80%;
 }
 
 #bag.burst{
-    background-image: url(/home/payal/punchingBagGame/bagImages/bag-burst.png);
+    background-image: url(/home/payal/punchingBagGame/bag-burst.png);
 }
 
 #bag-health{
