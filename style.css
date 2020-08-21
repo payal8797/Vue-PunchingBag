@@ -1,0 +1,27 @@
+#bag{
+    width: 150px;
+    height: 350px;
+    margin: 0 auto;
+    background: url(/home/payal/punchingBagGame/bagImages/bag.png) center no-repeat;
+    background-size: 80%;
+}
+
+#bag.burst{
+    background-image: url(/home/payal/punchingBagGame/bagImages/bag-burst.png);
+}
+
+#bag-health{
+    width: 200px;
+    border: 2px solid #000;
+    margin: 0 auto 10px auto;
+}
+
+#bag-health div{
+    height: 10px;
+    background: crimson
+}
+
+#controls{
+    width: 100px;
+    margin: 0 auto;
+}
